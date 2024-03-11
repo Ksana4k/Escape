@@ -1,0 +1,6 @@
+res://player/player.tscn
+res://ui/theme/game_theme.tres
+res://player/player_hit_flash_shader.tres
+res://ui/scene_transition/scene_transition_screen.gdshader
+res://enemies/wolf/enemy_wolf.tscn
+res://levels/test_levels/test_level.tscn

@@ -1,0 +1,14 @@
+Node
+AnimationPlayer
+TextureRect
+AnimatedSprite2D
+CanvasLayer
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+Label
+MarginContainer
+Button
+CollisionShape2D
+Area2D
+CollisionPolygon2D
